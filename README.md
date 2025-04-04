@@ -9,6 +9,12 @@ cd six
 ```
 
 2. Install requirements:
+skip this command on windows:
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
+then:
 ```bash
 pip install -r requirements.txt
 ```
