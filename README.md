@@ -4,8 +4,8 @@
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
-cd <repo-name>
+git clone https://github.com/testaccount440/six
+cd six
 ```
 
 2. Install requirements:
